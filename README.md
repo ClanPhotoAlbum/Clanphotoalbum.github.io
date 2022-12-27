@@ -1,2 +1,2 @@
-# clanphotoalbum.github.io
+# clanphotoalbum
 handmade album maker
