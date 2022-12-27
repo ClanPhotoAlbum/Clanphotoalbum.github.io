@@ -1,2 +1,1 @@
-# clanphotoalbum
-handmade album maker
+Handmade album maker
